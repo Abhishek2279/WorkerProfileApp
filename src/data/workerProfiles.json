@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "profileImage": "man",
+    "country": "india",
+    "category": "astrologer"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "profileImage": "man",
+    "country": "france",
+    "category": "assistant"
+  },
+  {
+    "id": "3",
+    "name": "Carlos Lopez",
+    "profileImage": "man",
+    "country": "germany",
+    "category": "makeup"
+  },
+  {
+    "id": "4",
+    "name": "Aiko Tanaka",
+    "profileImage": "man",
+    "country": "us",
+    "category": "mehndi"
+  },
+  {
+    "id": "5",
+    "name": "Lina Müller",
+    "profileImage": "man",
+    "country": "uk",
+    "category": "astrologer"
+  },
+  {
+    "id": "6",
+    "name": "John Doe",
+    "profileImage": "man",
+    "country": "world",
+    "category": "astrologer"
+  }
+]
